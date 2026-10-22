@@ -1,5 +1,5 @@
 [project]
-site_url = "https://guilherme-rocha-ribeiro.github.io/UniSim-Bridge/"
+
 site_name = "UniSim-Bridge Documentation"
 docs_dir = "docs"
 site_dir = "site"
